@@ -25,4 +25,9 @@ public class Elephant extends Hooved
   public void speak() {
       trumpet();
   }
+
+  public String toString()
+  {
+    return "This is an object of the Elephant class.";
+  }
 }
