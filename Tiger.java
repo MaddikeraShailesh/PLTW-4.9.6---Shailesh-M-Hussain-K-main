@@ -22,4 +22,8 @@ public class Tiger extends Feline
   {
     System.out.println("The tiger hunts alone.");
   }
+
+  public void speak() {
+      roar();
+  }
 }

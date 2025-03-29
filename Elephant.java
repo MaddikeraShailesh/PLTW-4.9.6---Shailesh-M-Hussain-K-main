@@ -21,4 +21,8 @@ public class Elephant extends Hooved
   {
     System.out.println("The elephant forages for food.");
   }
+
+  public void speak() {
+      trumpet();
+  }
 }

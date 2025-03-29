@@ -12,4 +12,8 @@ public class Penguin extends Animal
   {
     System.out.println("The penguin fishes.");
   }
+
+  public void speak() {
+      System.out.println("Squawk!");
+  }
 }

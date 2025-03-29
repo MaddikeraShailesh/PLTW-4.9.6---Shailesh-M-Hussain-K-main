@@ -17,4 +17,8 @@ public class Lion extends Feline
   {
     System.out.println("The lion hunts in a pack.");
   }
+
+  public void speak() {
+      roar();
+  }
 }

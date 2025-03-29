@@ -41,4 +41,8 @@ public class Animal
   {
     System.out.println("zzzzz");
   }
+
+  public void speak() {
+      System.out.println("Generic animal sound.");
+  }
 }
